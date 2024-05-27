@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "日本語",
+        "Level": "Basic"
+    },
+    {
+        "Name": "スキル\t",
+        "Level": "Conversational"
+    },
+    {
+        "Name": "English",
+        "Level": "Fluent"
+    },
+    {
+        "Name": "a",
+        "Level": "Basic"
+    },
+    {
+        "Name": "Specialchar !@#$%^&*()_+{}:>?",
+        "Level": "Conversational"
+    },
+    {
+        "Name": "LongName 50chars 890123456789012345678901234567890",
+        "Level": "Fluent"
+    },
+    {
+        "Name": "中国人",
+        "Level": "Native/Bilingual"
+    }
+]
